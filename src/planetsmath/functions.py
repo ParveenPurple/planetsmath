@@ -28,3 +28,8 @@ def sum_product(list):
     for item in list:
         product *= item
     return product
+
+def youaregreat(name):
+   return name,", You are great!"
+    
+    
